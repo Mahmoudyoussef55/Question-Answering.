@@ -3,20 +3,13 @@
 
 Arabot is a FastAPI project for question-answering using the deepset/roberta-base-squad2 model.
 
-## Installation
-
-Use the following command to install the project:
-
-```bash
-poetry install
-```
-## Usage
-Clone the repository:
+### Usage
+* Clone the repository:
    bash ``` git clone https://github.com/your-mahmoudyoussef55/Question-Answering.git ```
 
-Create a virtual environment:
+* Create a virtual environment:
 bash ``` conda activate -n project python ```
-
+* Install requirments.
 bash ``` poetry install ```
 
 Running the API
