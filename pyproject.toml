@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "arabot"
+version = "0.1.0"
+description = ""
+authors = ["mahmoud youssef <ymahmoud168@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.dependencies]
+python = "^3.8"  
+fastapi = "^0.104.1"
+httpx = "^0.23.3"
+transformers = "^4.29.2"
+datasets = "^2.15.0"
+
+[toml.dependencies]
+tensorflow-io-gcs-filesystem = "^0.23.1"
+markers = "python_version < '3.11'"
