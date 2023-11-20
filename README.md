@@ -18,7 +18,7 @@ bash ``` conda activate project ```
 
 
 
-* Poetry is a dependency management and packaging tool for Python. It aims to provide a modern and efficient way to manage project dependencies, handle packaging, and facilitate the distribution of Python projects.
+### Poetry is a dependency management and packaging tool for Python. It aims to provide a modern and efficient way to manage project dependencies, handle packaging, and facilitate the distribution of Python projects.
 
 
 ``` pip install poetry ```
